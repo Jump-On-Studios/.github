@@ -3,7 +3,7 @@
 
 We are a french Developer team fonded in 2024 by [Kad Darem](https://github.com/KadDarem). We are specialized in the creation of realistic mods for **GTA V** & **Red Dead Redemption II**.
 
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=website&logoColor=white)](http://shop.jumpon-studios.com/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=website&logoColor=white)](http://jumpon-studios.com/)
 ![Profile view](https://komarev.com/ghpvc/?username=Jump-On-Studios&label=Profile%20views&color=ff7c00&style=for-the-badge)
 [![Jump On Studios discord](https://dcbadge.limes.pink/api/server/BhweTazqKk)](https://discord.gg/BhweTazqKk)
 
